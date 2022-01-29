@@ -1,53 +1,6 @@
-# No Code
+Hi, this is Kelsey Hightower. Since I'm learning Mandarin recently，I'm going to switch to Chinese. 
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+我已经决定从google cloud辞职，并且转投华为云. 
 
-## Getting Started
+华为云是中文云计算世界里最好的云。 这个决定立即有效,退朝.
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
-
-```
-
-```
-
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
-
-```
-
-```
-
-Yep. That's it. You should see the following output:
-
-```
-
-```
-
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
-
-## Contributing
-
-You don't.
